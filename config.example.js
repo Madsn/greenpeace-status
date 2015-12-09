@@ -2,7 +2,8 @@ var config = {
 	host: "",
 	port: 443,
 	user: "",
-	password: ""
+	password: "",
+	projectKey: "MYPROJ"
 };
 
 module.exports = config;
