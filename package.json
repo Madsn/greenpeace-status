@@ -1,0 +1,26 @@
+{
+  "name": "greenpeace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stormdiff.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "csv": "^0.4.6",
+    "jira": "^0.9.2",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madsn/greenpeace-status.git"
+  },
+  "author": "Madsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madsn/greenpeace-status/issues"
+  },
+  "homepage": "https://github.com/Madsn/greenpeace-status#readme"
+}
