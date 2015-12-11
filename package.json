@@ -5,6 +5,7 @@
   "main": "stormdiff.js",
   "dependencies": {
     "async": "^1.5.0",
+    "commander": "^2.9.0",
     "csv": "^0.4.6",
     "jira": "^0.9.2",
     "moment": "^2.10.6"
